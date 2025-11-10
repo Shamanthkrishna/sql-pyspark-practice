@@ -6,19 +6,7 @@ This repository documents my daily progress through the **“100 Days of SQL: Ac
 
 ## 🎯 Course Overview
 
-**Instructor:** [Udemy Course Link](https://www.udemy.com/)  
-**Last Updated:** October 2025  
-**Purchased On:** November 10, 2025  
-**Rating:** ⭐ 4.5 / 5 (168 ratings)  
-**Enrolled Students:** 3,443  
-**Language:** English  
-
-### 📚 Course Includes:
-- 19.5 hours of on-demand video  
-- 109 coding exercises  
-- 304 downloadable resources  
-- Full lifetime access (mobile & TV)  
-- Certificate of completion  
+**Course Name:** [100 Days of SQL : Ace The SQL Interviews Like a PRO!!](https://www.udemy.com/course/100-days-of-sql/?couponCode=MT251110G2)  
 
 ---
 
@@ -53,11 +41,8 @@ This repository documents my daily progress through the **“100 Days of SQL: Ac
 
 sql-pyspark-practice/
 │
-├── day_01/
-│   └── day_01_notebook.dbc
-│
-├── day_02/
-│   └── day_02_notebook.dbc
+├── day_01.dbc
+├── day_02.dbc
 │
 └── ...
 
@@ -75,7 +60,7 @@ Each notebook contains:
 
 | Day | Date | Problems Solved | Topics Covered |
 |-----|------|------------------|----------------|
-| 01  | Nov 10, 2025 | 2 | Joins, Aggregations |
+| 01  | Nov 10, 2025 |  | |
 | 02  | ... | ... | ... |
 
 ---
@@ -88,6 +73,3 @@ To strengthen SQL and PySpark skills, develop optimized query-writing habits, an
 
 > 💬 *“Clean and optimized SQL writing — beyond just passing test cases.”*
 ```
-
-Would you like me to make a **version of this README tailored specifically for your GitHub repo** (including Databricks integration and daily progress tracker placeholders)?
-That one will look slightly more personalized to your workflow.
