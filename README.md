@@ -41,8 +41,8 @@ This repository documents my daily progress through the **“100 Days of SQL: Ac
 
 sql-pyspark-practice/
 │
-├── day_01.dbc
-├── day_02.dbc
+├── Prob_01.dbc
+├── Prob_02.dbc
 │
 └── ...
 
@@ -58,7 +58,7 @@ Each notebook contains:
 
 ## 🗓️ Progress Tracker
 
-| Day | Date | Problems Solved | Topics Covered (SQL & PySpark) |
+| Problem | Date | Problems Solved | Topics Covered (SQL & PySpark) |
 |-----|------|------------------|----------------|
 | 01  | Nov 10, 2025 | ICC Points Table | Select, Union All, Group By, Order By, Sum, Count, withColumn, Alias |
 | 02  | Nov 10, 2025 | Self Join | Self/Inner Join, Joins in PyS, Where in PyS |
