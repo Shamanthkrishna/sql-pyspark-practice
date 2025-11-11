@@ -50,8 +50,8 @@ sql-pyspark-practice/
 
 Each notebook contains:
 1. SQL table creation and insertion scripts  
-2. SQL solutions for 2 problems  
-3. Equivalent PySpark solutions  
+2. SQL solution for the problem  
+3. Equivalent PySpark solution  
 4. Notes and learnings  
 
 ---
@@ -61,7 +61,7 @@ Each notebook contains:
 | Day | Date | Problems Solved | Topics Covered (SQL & PySpark) |
 |-----|------|------------------|----------------|
 | 01  | Nov 10, 2025 | ICC Points Table | Select, Union All, Group By, Order By, Sum, Count, withColumn, Alias |
-| 02  | ... | ... | ... |
+| 02  | Nov 10, 2025 | Self Join | Self/Inner Join, Joins in PyS, Where in PyS |
 
 ---
 
