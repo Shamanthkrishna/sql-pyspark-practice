@@ -58,9 +58,9 @@ Each notebook contains:
 
 ## 🗓️ Progress Tracker
 
-| Day | Date | Problems Solved | Topics Covered |
+| Day | Date | Problems Solved | Topics Covered (SQL & PySpark) |
 |-----|------|------------------|----------------|
-| 01  | Nov 10, 2025 |  | |
+| 01  | Nov 10, 2025 | ICC Points Table | Select, Union All, Group By, Order By, Sum, Count, withColumn, Alias |
 | 02  | ... | ... | ... |
 
 ---
