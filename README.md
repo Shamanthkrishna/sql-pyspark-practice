@@ -62,6 +62,8 @@ Each notebook contains:
 |-----|------|------------------|----------------|
 | 01  | Nov 10, 2025 | ICC Points Table | Select, Union All, Group By, Order By, Sum, Count, withColumn, Alias |
 | 02  | Nov 10, 2025 | Self Join | Self/Inner Join, Joins in PyS, Where in PyS |
+| 03 | Nov 11, 2025 | New and Repeat Customers | CTE, MIN, SUM |
+| 04 | Nov 12, 2025 | Most Visited Floor | Count, Rank, Strign Agg, Window, Concat_ws, Filter |
 
 ---
 
