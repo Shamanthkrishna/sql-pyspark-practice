@@ -58,12 +58,16 @@ Each notebook contains:
 
 ## 🗓️ Progress Tracker
 
-| Problem | Date | Problems Solved | Topics Covered (SQL & PySpark) |
-|-----|------|------------------|----------------|
-| 01  | Nov 10, 2025 | ICC Points Table | Select, Union All, Group By, Order By, Sum, Count, withColumn, Alias |
-| 02  | Nov 10, 2025 | Self Join | Self/Inner Join, Joins in PyS, Where in PyS |
-| 03 | Nov 11, 2025 | New and Repeat Customers | CTE, MIN, SUM |
-| 04 | Nov 12, 2025 | Most Visited Floor | Count, Rank, Strign Agg, Window, Concat_ws, Filter |
+Here is the table with the **last column split into two** — **SQL Topics** and **PySpark Topics**, with contents separated accordingly:
+
+
+| Problem | Date         | Problems Solved          | SQL Topics Covered                                                       | PySpark Topics Covered                     |
+| ------- | ------------ | ------------------------ | ------------------------------------------------------------------------ | ------------------------------------------ |
+| 01      | Nov 10, 2025 | ICC Points Table         | Select, Union All, Group By, Order By, Sum, Count                        | withColumn, Alias                          |
+| 02      | Nov 10, 2025 | Self Join                | Self Join, Inner Join                                                    | Joins in PySpark, Where filter             |
+| 03      | Nov 11, 2025 | New and Repeat Customers | CTE, MIN, SUM                                                            | —                                          |
+| 04      | Nov 12, 2025 | Most Visited Floor       | Count, Rank, String Aggregation, Window Functions, Concat_ws             | Filter                                     |
+| 05      | Nov 14, 2025 | Pivot - Unpivot          | Group By, Conditional Aggregation, Union All, Manual Pivot/Unpivot logic | pivot(), agg(sum()), selectExpr(), stack() |
 
 ---
 
