@@ -68,7 +68,8 @@ Here is the table with the **last column split into two** — **SQL Topics** and
 | 03      | Nov 11, 2025 | New and Repeat Customers | CTE, MIN, SUM                                                            | —                                          |
 | 04      | Nov 12, 2025 | Most Visited Floor       | Count, Rank, String Aggregation, Window Functions, Concat_ws             | Filter                                     |
 | 05      | Nov 14, 2025 | Pivot - Unpivot          | Group By, Conditional Aggregation, Union All, Manual Pivot/Unpivot logic | pivot(), agg(sum()), selectExpr(), stack() |
-
+| 06      | Nov 17, 2025 | Amazon Interview Question | CTEs, Date functions, Conditional Logic                                 | withColumn, Date Conversion, dayofweek(), when/otherwise, column arithmetic, selecting columns |
+| 07      | Nov 18, 2025 | Pareto Principle         | CTEs, Aggregations, Window Functions, Running totals                     | groupby(), agg(), window.orderby(), filter, F.sum().over(window) |
 ---
 
 ## 🏁 Goal
